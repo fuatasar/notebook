@@ -1,1 +1,1 @@
-# notebook
+Anlamaya çalışıyorum.
